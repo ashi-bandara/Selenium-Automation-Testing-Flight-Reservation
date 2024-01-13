@@ -2,6 +2,11 @@
 
 This repository contains a Selenium Java program (`Example2.java`) for automating a flight reservation process. The program utilizes the ChromeDriver located in the `drivers` folder.
 
+## System Information
+>**Operating System:** MacOS Sonoma version 14.2.1
+>
+>**IDE Version:** IntelliJ IDEA Ultimate 2023.3
+
 ## Features
 - Navigates to the demo website (http://demo.guru99.com/test/newtours/).
 - Maximizes the browser window.
