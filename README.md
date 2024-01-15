@@ -2,6 +2,10 @@
 
 This repository contains a Selenium Java program (`Example2.java`) for automating a flight reservation process. The program utilizes the ChromeDriver located in the `drivers` folder.
 
+## Article on Medium
+
+I've also authored a comprehensive Medium article detailing this setup process. If you prefer a more in-depth guide with explanations and visuals, check out the article [here](https://medium.com/@AshiBandara/setting-up-selenium-testing-environment-on-macos-with-maven-and-intellij-479b4c43297a).
+
 ## System Information
 >**Operating System:** MacOS Sonoma version 14.2.1
 >
